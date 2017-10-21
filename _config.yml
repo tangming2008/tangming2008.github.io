@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ming Tang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Chicago"
   email            : tangming.buaa@gmail.com
