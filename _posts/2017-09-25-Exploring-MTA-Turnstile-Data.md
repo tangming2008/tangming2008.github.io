@@ -4,7 +4,7 @@ categories: [Data Science, Project]
 title: Exploring MTA Turnstile Data
 ---
 
-<center><img src="/files/fig/proj1/01_00_turnstile.jpg" width="500"></center>
+![Turnstile](/files/fig/proj1/01_00_turnstile.jpg?raw=true)
 
 ## Introduction
 This blog is built on my first data science project at Metis/Chicago, working together with Zach Heick and Eric Chan.
