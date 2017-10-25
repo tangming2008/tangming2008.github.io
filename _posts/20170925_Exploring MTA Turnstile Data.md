@@ -4,7 +4,7 @@ categories: [Data Science, Interview]
 title: How To Ace The Data Science Interview
 ---
 
-Category: Sparse Matrix
+### Category: Sparse Matrix
 
 # Exploring MTA Turnstile Data
 
