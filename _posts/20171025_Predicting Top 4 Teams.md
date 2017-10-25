@@ -1,3 +1,9 @@
+---
+published: true
+categories: [Data Science, Interview]
+title: How To Ace The Data Science Interview
+---
+
 # Predicting Top 4 teams in Spanish Soccer League
 
 <center><img src="/files/fig/proj3/1_intro_points.png" width="400"></center>
