@@ -1,7 +1,10 @@
 ---
-Category: Sparse Matrix
+published: true
+categories: [Python]
+title: Faster Python - Tips & Tricks
 ---
 
+Category: Sparse Matrix
 
 # Exploring MTA Turnstile Data
 
