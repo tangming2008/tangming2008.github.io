@@ -4,6 +4,8 @@ Category: [Data Science, Linear regression]
 Title: Predicting Points in Soccer League
 ---
 
+![La Liga](/files/fig/proj2/02_00_laliga.jpg?raw=true)
+
 <center><img src="/files/fig/proj2/02_00_laliga.jpg" width="400"></center>
 
 ## Introduction
