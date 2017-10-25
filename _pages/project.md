@@ -8,6 +8,10 @@ author_profile: true
 **Data Science Project**
 
 ---
-[Project 1: Explore MTA Turnstile Data](https://tangming2008.github.io/tree/master/_posts)
 
-[Project 2: Predict Points in Soccer League](https://github.com/tangming2008/tangming2008.github.io/blob/master/_posts/20171009_Predict%20points%20in%20soccer%20leagues.md)
+### General
+[Project 1: Explore MTA Turnstile Data](https://tangming2008.github.io/data%20science/project/Exploring-MTA-Turnstile-Data/)  
+
+[Project 2: Predicting Points in Soccer Leagues](https://tangming2008.github.io/Predicting-Points-in-Soccer-Leagues/)
+
+[Project 3: Classifying Top 4 Teams in Soccer League](https://tangming2008.github.io/classification/Predicting-Top-4-Teams-in-Soccer-Leagues/)
