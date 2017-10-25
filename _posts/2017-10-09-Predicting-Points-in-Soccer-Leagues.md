@@ -8,6 +8,7 @@ Title: Predicting Points in Soccer League
 
 <center><img src="/files/fig/proj2/02_00_laliga.jpg" width="400"></center>
 
+check
 ## Introduction
 This blog is built on my second data science project at Metis/Chicago. This project consists of two parts:
 * Scrape the information from the web
