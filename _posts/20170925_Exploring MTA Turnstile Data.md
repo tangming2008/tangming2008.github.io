@@ -1,7 +1,7 @@
 ---
 published: true
-categories: [Python]
-title: Faster Python - Tips & Tricks
+categories: [Data Science, Interview]
+title: How To Ace The Data Science Interview
 ---
 
 Category: Sparse Matrix
