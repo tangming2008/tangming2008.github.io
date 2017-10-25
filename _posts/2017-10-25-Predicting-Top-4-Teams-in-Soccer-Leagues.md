@@ -4,12 +4,12 @@ categories: [Classification]
 title: Predicting Top 4 Teams in Spanish Soccer League
 ---
 
-<center><img src="/files/fig/proj3/1_intro_points.png" width="400"></center>
-
 ## Introduction
 This blog is based on my 3rd data science project at Metis/Chicago.
 I used the same dataset as that in 2nd project, where I built a linear regression model to predict the final points for teams in the Spanish Soccer league (called La Liga). Two primary features include goals scored and goals lost. For each team in the league, the predicted points agree quite well with the true data, with result summarized in Figure 1.
 For this project, I will be focusing on using *classification* models to predict the top 4 teams in the league, which will be qualified for the next year’s Champions League, which means reputation and money for the team and players.
+
+<center><img src="/files/fig/proj3/1_intro_points.png" width="400"></center>
 
 ## Analysis Approach
 Soccer data for past 20 years was scraped from [Fox sports] (http://www.foxsports.com/soccer/standings?competition=2&season=2013) and [Wikipedia]() by selenium. Pandas was applied for data standardization and exploration. Finally
