@@ -1,9 +1,8 @@
 ---
 published: true
-Category: Sparse Matrix
+Category: [Data Science, Linear regression]
+Title: Predicting Points in Soccer League
 ---
-
-# Predicting Points in Soccer League
 
 <center><img src="/files/fig/proj2/02_00_laliga.jpg" width="400"></center>
 
@@ -36,10 +35,10 @@ I started exploring the data by considering one single feature of “Goals score
 
 
 <center><img src="/files/fig/proj2/02_02_one_feature_residual.jpg" width="700"></center>
-<p><center>Figure 2. Final points against goals scored and distribution of residuals from linear fitting.</center></p> 
+<p><center>Figure 2. Final points against goals scored and distribution of residuals from linear fitting.</center></p>
 
 
-Next, I added more features to potentially improve the model. Although we cannot totally rely on the R scores to justify the correlation, they give a first estimation on the correlation analysis. As shown in Figure 3, adding more features (slowly) increases the accuracy of the model. 
+Next, I added more features to potentially improve the model. Although we cannot totally rely on the R scores to justify the correlation, they give a first estimation on the correlation analysis. As shown in Figure 3, adding more features (slowly) increases the accuracy of the model.
 
 
 <center><img src="/files/fig/proj2/02_03_all_feature.jpg" width="400"></center>
@@ -63,10 +62,9 @@ Finally, I validated the model with the test data, from 2013 to 2014 season, whi
 
 
 ## Conclusions
-* It is possible to correlate the points with features in soccer games by linear regression 
+* It is possible to correlate the points with features in soccer games by linear regression
 * Linear regression gives a reasonable approximation on the final points, but more in-depth analysis is necessary
 
 
 ## References
 1. Front image: [www.vbetnews.com]( https://www.vbetnews.com/la-liga-barcelona-atletico-and-real-madrid-schedules-infographic)
-

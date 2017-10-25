@@ -1,21 +1,19 @@
 ---
 published: true
-categories: [Data Science, Interview]
-title: How To Ace The Data Science Interview
+categories: [Classification]
+title: Predicting Top 4 teams in Spanish Soccer League
 ---
-
-# Predicting Top 4 teams in Spanish Soccer League
 
 <center><img src="/files/fig/proj3/1_intro_points.png" width="400"></center>
 
 ## Introduction
-This blog is based on my 3rd data science project at Metis/Chicago. 
+This blog is based on my 3rd data science project at Metis/Chicago.
 I used the same dataset as that in 2nd project, where I built a linear regression model to predict the final points for teams in the Spanish Soccer league (called La Liga). Two primary features include goals scored and goals lost. For each team in the league, the predicted points agree quite well with the true data, with result summarized in Figure 1.
 For this project, I will be focusing on using *classification* models to predict the top 4 teams in the league, which will be qualified for the next year’s Champions League, which means reputation and money for the team and players.
 
 ## Analysis Approach
 Soccer data for past 20 years was scraped from [Fox sports] (http://www.foxsports.com/soccer/standings?competition=2&season=2013) and [Wikipedia]() by selenium. Pandas was applied for data standardization and exploration. Finally
-I used the scikit learn, the machine learning package in python, and 6 different built-in classifiers for classification study and optimized based on the overall results. The dataset is similar to that used in the last project. 
+I used the scikit learn, the machine learning package in python, and 6 different built-in classifiers for classification study and optimized based on the overall results. The dataset is similar to that used in the last project.
 
 The features and target were illustrated in Figure 2 and the tools used in this project were summarized in Table 1.
 
@@ -40,7 +38,7 @@ I started exploring the data by plotting the data with features and classes, as 
 
 
 <center><img src="/files/fig/proj3/3_data_2d.png" width="700"></center>
-<p><center>Figure 3. An overview of the features and classes.</center></p> 
+<p><center>Figure 3. An overview of the features and classes.</center></p>
 
 
 ### Model prediction
@@ -59,7 +57,7 @@ Apart from the modeling, what I found most interesting about data science is to 
 <center>Figure 5. Performance of the models varies over time.</center>
 
 
-If we look at the primary feature, of ‘goals scored per game’, over time, the goals scored for top teams are increasing after the year of 2010, particularly for top 2 teams. The most possible reason I can think of is these two players and two clubs, Lionel Messi from the club of Barcelona, Cristiano Ronaldo from the team of Real Madrid. They are possibly 2 best soccer players, from 2 best soccer teams in the world, for past 10 years. 
+If we look at the primary feature, of ‘goals scored per game’, over time, the goals scored for top teams are increasing after the year of 2010, particularly for top 2 teams. The most possible reason I can think of is these two players and two clubs, Lionel Messi from the club of Barcelona, Cristiano Ronaldo from the team of Real Madrid. They are possibly 2 best soccer players, from 2 best soccer teams in the world, for past 10 years.
 
 <center><img src="/files/fig/proj3/6_2010.png" width="400"></center>
 <center>Figure 6. Correlation when including more features.</center>
@@ -78,8 +76,8 @@ With that in mind, let us get back to the classification model, these two extrao
 
 
 ## Conclusions
-* It is feasible to use machine learning algorithm to predict whether a team is top 4 based on the goals scored and goals lost. 
-* Although soccer is a team sports, with 11 players, an outstanding individual would have a significant effect on the team, even the league. 
+* It is feasible to use machine learning algorithm to predict whether a team is top 4 based on the goals scored and goals lost.
+* Although soccer is a team sports, with 11 players, an outstanding individual would have a significant effect on the team, even the league.
 
 
 ## Image credits

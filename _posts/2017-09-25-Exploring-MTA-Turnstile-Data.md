@@ -1,12 +1,8 @@
 ---
 published: true
-categories: [Data Science, Interview]
-title: How To Ace The Data Science Interview
+categories: [Data Science, Project]
+title: Exploring MTA Turnstile Data
 ---
-
-### Category: Sparse Matrix
-
-# Exploring MTA Turnstile Data
 
 <center><img src="/files/fig/proj1/01_00_turnstile.jpg" width="500"></center>
 
