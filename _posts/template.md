@@ -3,6 +3,6 @@ published: false
 title: 
 categories: []
 ---
-![image](/files/images/name.jpeg?raw=true)
+![image](/files/images/cmu_mse.png)
 
 ## Introduction
