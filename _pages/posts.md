@@ -4,4 +4,4 @@ permalink: /posts/
 author_profile: true
 ---
 
-## Add more results here
+Will add more posts here.
