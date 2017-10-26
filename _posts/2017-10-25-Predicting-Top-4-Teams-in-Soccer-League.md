@@ -81,12 +81,12 @@ With that in mind, let us get back to the classification model, these two extrao
 
 
 ## Image credits
-1. [La Liga](https://twitter.com/laliga)
-2. [Selenium](http://selenium-python.readthedocs.io/)
-3. [Fox sports](http://www.foxsports.com/watch/fs1)
-4. [Pandas](http://pandas.pydata.org/)
-5. [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
-6. [Ronaldo](http://ftw.usatoday.com/2017/06/nike-cristiano-ronaldo-ad-adidas)
-7.[Messi](https://www.youtube.com/watch?v=xMA6p0jyDYM)
-8. [FC Barcelona](https://www.fcbarcelona.com/news)
-9. [Real Madrid C.F.](https://twitter.com/realmadrid)
+* [La Liga](https://twitter.com/laliga)
+* [Selenium](http://selenium-python.readthedocs.io/)
+* [Fox sports](http://www.foxsports.com/watch/fs1)
+* [Pandas](http://pandas.pydata.org/)
+* [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+* [Ronaldo](http://ftw.usatoday.com/2017/06/nike-cristiano-ronaldo-ad-adidas)
+* [Messi](https://www.youtube.com/watch?v=xMA6p0jyDYM)
+* [FC Barcelona](https://www.fcbarcelona.com/news)
+* [Real Madrid C.F.](https://twitter.com/realmadrid)
