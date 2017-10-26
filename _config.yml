@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 # Site Settings
 theme                    : minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "Data, data, more data ..."
+title                    : "Random Forest"
 title_separator          : "-"
 name                     : "Ming Tang"
 description              : "An amazing website."
