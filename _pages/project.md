@@ -4,7 +4,7 @@ permalink: /project/
 author_profile: true
 ---
 
-**Data Science Project**
+**Data Science Projects at Metis/Chicago**
 
 | ID |Title| Skills | Date |
 |----|----|-------|-------|
