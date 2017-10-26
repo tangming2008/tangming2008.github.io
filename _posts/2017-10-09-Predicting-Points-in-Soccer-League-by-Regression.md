@@ -1,7 +1,7 @@
 ---
 published: true
 Category: [Data Science, Linear regression]
-Title: Predicting Points in Soccer League
+Title: Predicting Points in Soccer League by Regression
 ---
 
 ![La Liga](/files/fig/proj2/02_00_laliga.jpg?raw=true)
