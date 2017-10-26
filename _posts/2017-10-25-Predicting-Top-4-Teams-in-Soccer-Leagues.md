@@ -1,7 +1,7 @@
 ---
 published: true
 categories: [Classification]
-title: Predicting Top 4 Teams in Spanish Soccer League
+title: Predicting Top 4 Teams in Soccer League
 ---
 
 ## Introduction
