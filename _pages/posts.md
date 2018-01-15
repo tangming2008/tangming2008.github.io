@@ -4,4 +4,4 @@ permalink: /posts/
 author_profile: true
 ---
 
-Recent posts: https://tangming2008.github.io/
+My blog: [Link here](https://tangming2008.github.io/)
