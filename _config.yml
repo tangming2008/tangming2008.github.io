@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 # Site Settings
 theme                    : minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "Random Forest"
+title                    : "Decision Tree"
 title_separator          : "-"
 name                     : "Ming Tang"
 description              : "An amazing website."
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ming Tang"
   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist"
+  bio              : "Data Scientist / Ph.D."
   location         : "Chicago"
   email            : tangming.buaa@gmail.com
   uri              :
