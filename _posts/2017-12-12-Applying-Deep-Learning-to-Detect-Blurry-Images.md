@@ -74,7 +74,7 @@ The main idea of this project is image classification, and here are two examples
 
 ## Conclusions
 * The trained CNN model has an accuracy of 95% when identifying blurry images, which outperforms OpenCV.
-* * The trained CNN model can differentiate images blurred by different approaches.
+* The trained CNN model can differentiate images blurred by different approaches.
 
 
 ## Image credits
