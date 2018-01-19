@@ -73,8 +73,7 @@ The main idea of this project is image classification, and here are two examples
 <p><center>Figure 8. Possible applications based on this work </center></p>
 
 ## Conclusions
-* It is feasible to use machine learning algorithm to predict whether a team is top 4 based on the goals scored and goals lost.
-* Although soccer is a team sports, with 11 players, an outstanding individual would have a significant effect on the team, even the league.
+* The trained CNN model has an accuracy of 95% when identifying blurry images, which outperforms OpenCV
 
 
 ## Image credits
