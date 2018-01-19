@@ -4,4 +4,6 @@ permalink: /posts/
 author_profile: true
 ---
 
-My blog: [Link here](https://tangming2008.github.io/)
+Comming soon...
+
+This section contains my work during Ph.D. training at Carnegie Mellon University.
