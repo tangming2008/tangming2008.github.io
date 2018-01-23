@@ -74,10 +74,11 @@ Here, we are looking at the contribution of a player to the team over time. x ax
 
 With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two positions in top4. In other words, it is relatively easy for classification models to isolate these 2 teams, simply because they are so good.
 <br />
-<br />
+
 
 <center><img src="/files/fig/proj3/7.png" width="500"></center>
 <center>Figure 7. Contribution of individual players to the team.</center>
+
 
 ## Conclusions
 * It is feasible to use machine learning algorithm to predict whether a team is top 4 based on the goals scored and goals lost.
