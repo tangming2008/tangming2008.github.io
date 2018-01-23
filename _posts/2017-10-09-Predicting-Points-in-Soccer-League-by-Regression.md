@@ -60,7 +60,7 @@ Care should be taken when dealing with the *R* scores: adding more features undo
 Finally, I validated the model with the test data, from 2013 to 2014 season, which is not included in building the model. Figure 5 compares the true points against the predicted points. The linear agreement appears reasonable, which means that the linear model offers a good first-order prediction. However, the model does not correctly predict the champion of the season (lower predicted points, but higher true points). More feature engineering is needed in the future work.
 
 
-<center><img src="/files/fig/proj2/6.png" width="400"></center>
+<center><img src="/files/fig/proj2/6.png" width="600"></center>
 <center>Figure 5. Correlation between final points and goals scored.</center>
 
 
