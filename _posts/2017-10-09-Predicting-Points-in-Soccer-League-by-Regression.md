@@ -4,7 +4,7 @@ Category: [Data Science, Linear regression]
 Title: Predicting Points in Soccer League by Regression
 ---
 
-<center><img src="/files/fig/proj2/1.png" width="350"></center>
+<center><img src="/files/fig/proj2/1.png" width="500"></center>
 
 ## Introduction
 This blog is built on my second data science project at Metis/Chicago, which consists of two parts:
@@ -26,8 +26,10 @@ Table 1. Tools used in this project.
 |Plotting and visualization | Matplotlib, Seaborn|
 
 
-<center><img src="/files/fig/proj2/2.png" width="350"></center>
+
+<center><img src="/files/fig/proj2/2.png" width="500"></center>
 <center>Figure 1. Logic flow of this project.</center>
+
 
 
 ## Results & Discussion
@@ -35,14 +37,14 @@ Table 1. Tools used in this project.
 I started exploring the data by considering one single feature of “Goals scored” and plotted the “final points” against “Goals scored” in the scatter plot, as shown in Figure 2(a). The residuals in Figure 2(b) seems randomly distributed, implying that the linear regression could be a reasonable starting point.
 
 
-<center><img src="/files/fig/proj2/3.png" width="700"></center>
+<center><img src="/files/fig/proj2/3.png" width="500"></center>
 <p><center>Figure 2. Final points against goals scored and distribution of residuals from linear fitting.</center></p>
 
 
 Next, I added more features to further improve the model. Although we cannot totally rely on the R scores to justify the correlation, they give a first estimation on the linear correlation. As shown in Figure 3, including more features slightly increases the accuracy of the model.
 
 
-<center><img src="/files/fig/proj2/4.png" width="400"></center>
+<center><img src="/files/fig/proj2/4.png" width="500"></center>
 <center>Figure 3. Correlation when including more features.</center>
 
 
