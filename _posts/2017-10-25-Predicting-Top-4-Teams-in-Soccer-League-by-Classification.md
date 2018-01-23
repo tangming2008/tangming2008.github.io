@@ -1,6 +1,6 @@
 ---
 published: true
-categories: [Machine Learning, Classification]
+categories: [Classification]
 title: Predicting Top 4 Teams in Soccer League by Classification
 ---
 
@@ -31,6 +31,7 @@ Table 1. Tools used in this project.
 |Plotting and visualization | Matplotlib|
 |Classification package| Scikit-learn |
 |Classification models| Logistic regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest |
+
 <br />
 
 <center><img src="/files/fig/proj3/2.png" width="500"></center>
