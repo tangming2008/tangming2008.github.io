@@ -15,7 +15,7 @@ For this project, I will be focusing on using *classification* models to predict
 
 
 ## Analysis Approach
-Soccer data for past 20 years was scraped from [Fox sports] (http://www.foxsports.com/soccer/standings?competition=2&season=2013) and [Wikipedia]() by selenium. Pandas was applied for data standardization and exploration. Finally
+Soccer data for past 20 years was scraped from [Fox sports](http://www.foxsports.com/soccer/standings?competition=2&season=2013) and [Wikipedia]() by selenium. Pandas was applied for data standardization and exploration. Finally
 I used the scikit learn, the machine learning package in python, and 6 different built-in classifiers for classification study and optimized based on the overall results. The dataset is similar to that used in the last project.
 
 The features and target were illustrated in Figure 2 and the tools used in this project were summarized in Table 1.
