@@ -26,7 +26,7 @@ Table 1. Tools used in this project.
 |Application | Tools used |
 | --- | --- |
 |Data scraping |[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](http://selenium-python.readthedocs.io/)|
-|Data Exploration | SQL & Pandas |
+|Data Exploration | SQL, Pandas |
 |Plotting and visualization | Matplotlib|
 |Classification package| Scikit-learn |
 |Classification models| Logistic regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest |
@@ -41,7 +41,7 @@ I started exploring the data by plotting the data with features and classes, as 
 
 
 <center><img src="/files/fig/proj3/3.png" width="400"></center>
-<p><center>Figure 3. An overview of the features and classes.</center>
+<center>Figure 3. An overview of the features and classes.</center>
 
 
 ### Model prediction
@@ -54,7 +54,6 @@ Figure 4 shows optimized results and final scores (accuracy, precision, recall a
 
 ### Contribution of individual players matters
 Apart from the modeling, what I found most interesting about data science is to explore and discover something new. In this project, when I took a look at the prediction over time, something interesting came up. According to Figure 5,  we can clearly see that, the average precision score based on 6 models, is increasing over time, which means that the model is becoming better around the year of 2010.
-
 
 
 <center><img src="/files/fig/proj3/5.png" width="500"></center>
@@ -72,7 +71,7 @@ If we look at the primary feature, of ‘goals scored per game’, over time, th
 
 Here, we are looking at the contribution of a player to the team over time. x axis is the time, y axis is the goals of the player and the whole team. For example of Messi, he was born somewhere, and he became as a regular player from here, and scores many many goals from the year around 2008. Besides, the trend of team fits well with the contribution of the player, which probably indicates that contribution of Messi is critical for the improvement of the team. The same trend applies to Ronaldo and Real Madrid. This individual player contributes significantly to the team.
 
-With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two 
+With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two
 
 
 <center><img src="/files/fig/proj3/7.png" width="500"></center>
