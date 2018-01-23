@@ -31,6 +31,7 @@ Table 1. Tools used in this project.
 |Classification package| Scikit-learn |
 |Classification models| Logistic regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest |
 
+
 <center><img src="/files/fig/proj3/2.png" width="500"></center>
 <center>Figure 2. Procedure for data analysis.</center>
 
@@ -56,24 +57,20 @@ Figure 4 shows optimized results and final scores (accuracy, precision, recall a
 Apart from the modeling, what I found most interesting about data science is to explore and discover something new. In this project, when I took a look at the prediction over time, something interesting came up. According to Figure 5,  we can clearly see that, the average precision score based on 6 models, is increasing over time, which means that the model is becoming better around the year of 2010.
 
 
-
 <center><img src="/files/fig/proj3/5.png" width="500"></center>
 <center>Figure 5. Performance of the models varies over time.</center>
-<br/><br/>
+
 
 If we look at the primary feature, of ‘goals scored per game’, over time, the goals scored for top teams are increasing after the year of 2010, particularly for top 2 teams. The most possible reason I can think of is these two players and two clubs, Lionel Messi from the club of Barcelona, Cristiano Ronaldo from the team of Real Madrid. They are possibly 2 best soccer players, from 2 best soccer teams in the world, for past 10 years.
-<br /><br />
 
 
 <center><img src="/files/fig/proj3/6.png" width="700"></center>
 <center>Figure 6. Correlation when including more features.</center>
-<br />
 
 
 Here, we are looking at the contribution of a player to the team over time. x axis is the time, y axis is the goals of the player and the whole team. For example of Messi, he was born somewhere, and he became as a regular player from here, and scores many many goals from the year around 2008. Besides, the trend of team fits well with the contribution of the player, which probably indicates that contribution of Messi is critical for the improvement of the team. The same trend applies to Ronaldo and Real Madrid. This individual player contributes significantly to the team.
 
 With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two positions in top4. In other words, it is relatively easy for classification models to isolate these 2 teams, simply because they are so good.
-<br />
 
 
 <center><img src="/files/fig/proj3/7.png" width="500"></center>
