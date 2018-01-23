@@ -31,7 +31,7 @@ Table 1. Tools used in this project.
 |Plotting and visualization | Matplotlib|
 |Classification package| Scikit-learn |
 |Classification models| Logistic regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest |
-
+<br />
 
 <center><img src="/files/fig/proj3/2.png" width="500"></center>
 <center>Figure 2. Procedure for data analysis.</center>
@@ -70,7 +70,7 @@ If we look at the primary feature, of ‘goals scored per game’ over time, the
 <br />
 
 
-Here, we are looking at the contribution of a player to the team over time. As we can see in Figure 7, Messi became as a regular player in 2004, and scores so many goals from 2008. Besides, the increasing trend of Barcelona's goals fits well with Messi's goals, which probably indicates that contribution of Messi is critical for the improvement of the team. The same trend applies to Ronaldo and Real Madrid. 
+Here, we are looking at the contribution of a player to the team over time. As we can see in Figure 7, Messi became as a regular player in 2004, and scores so many goals from 2008. Besides, the increasing trend of Barcelona's goals fits well with Messi's goals, which probably indicates that contribution of Messi is critical for the improvement of the team. The same trend applies to Ronaldo and Real Madrid.
 
 With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two positions in top 4. In other words, it is relatively easy for classification models to isolate these 2 teams, simply because they are so good.
 
