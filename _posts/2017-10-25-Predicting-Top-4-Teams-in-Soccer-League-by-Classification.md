@@ -37,13 +37,12 @@ Table 1. Tools used in this project.
 <center>Figure 2. Procedure for data analysis.</center>
 
 
-
 ## Results & Discussion
 ### Data Exploration
 I started exploring the data by plotting the data with features and classes, as shown in Figure 3. Two primary features were included: goals scored per game and goals lost per game. The data was separated to two classes: top 4 or not-top-4. The objective of this project is to find the optimal cutting-off to separate out the two class. This graph seems reasonable in the sense that, usually, top teams would scored more goals and lose less goals.
 
 
-<center><img src="/files/fig/proj3/3.png" width="500"></center>
+<center><img src="/files/fig/proj3/3.png" width="400"></center>
 <p><center>Figure 3. An overview of the features and classes.</center></p>
 
 
@@ -52,7 +51,7 @@ Figure 4 shows optimized results and final scores (accuracy, precision, recall a
 
 
 <center><img src="/files/fig/proj3/4.png" width="500"></center>
-<center>Figure 4. Prediction scores.</center>
+<center>Figure 4. Prediction scores based on different classifiers.</center>
 
 
 ### Contribution of individual players matters
@@ -62,7 +61,7 @@ Apart from the modeling, what I found most interesting about data science is to 
 
 <center><img src="/files/fig/proj3/5.png" width="500"></center>
 <center>Figure 5. Performance of the models varies over time.</center>
-
+ 
 
 
 If we look at the primary feature, of ‘goals scored per game’, over time, the goals scored for top teams are increasing after the year of 2010, particularly for top 2 teams. The most possible reason I can think of is these two players and two clubs, Lionel Messi from the club of Barcelona, Cristiano Ronaldo from the team of Real Madrid. They are possibly 2 best soccer players, from 2 best soccer teams in the world, for past 10 years.
