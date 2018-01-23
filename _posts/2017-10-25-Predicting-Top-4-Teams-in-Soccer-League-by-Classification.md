@@ -73,14 +73,11 @@ If we look at the primary feature, of ‘goals scored per game’, over time, th
 Here, we are looking at the contribution of a player to the team over time. x axis is the time, y axis is the goals of the player and the whole team. For example of Messi, he was born somewhere, and he became as a regular player from here, and scores many many goals from the year around 2008. Besides, the trend of team fits well with the contribution of the player, which probably indicates that contribution of Messi is critical for the improvement of the team. The same trend applies to Ronaldo and Real Madrid. This individual player contributes significantly to the team.
 
 With that in mind, let us get back to the classification model, these two extraordinary players made their teams outperform the rest teams, easily secure two positions in top4. In other words, it is relatively easy for classification models to isolate these 2 teams, simply because they are so good.
-
-<br /><br />
+<br />
+<br />
 
 <center><img src="/files/fig/proj3/7.png" width="500"></center>
 <center>Figure 7. Contribution of individual players to the team.</center>
-
-
-
 
 ## Conclusions
 * It is feasible to use machine learning algorithm to predict whether a team is top 4 based on the goals scored and goals lost.
