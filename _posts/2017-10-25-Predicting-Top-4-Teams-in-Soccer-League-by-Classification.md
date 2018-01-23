@@ -59,7 +59,7 @@ Apart from the modeling, what I found most interesting about data science is to 
 
 <center><img src="/files/fig/proj3/5.png" width="500"></center>
 <center>Figure 5. Performance of the models varies over time.</center>
-
+<br />
 
 If we look at the primary feature, of ‘goals scored per game’, over time, the goals scored for top teams are increasing after the year of 2010, particularly for top 2 teams. The most possible reason I can think of is these two players and two clubs, Lionel Messi from the club of Barcelona, Cristiano Ronaldo from the team of Real Madrid. They are possibly 2 best soccer players, from 2 best soccer teams in the world, for past 10 years.
 
