@@ -1,6 +1,6 @@
 ---
 published: true
-categories: [Classification, Neural Network, Tensor Flow]
+categories: [Neural Network, Tensor Flow, Classification]
 title: Applying Deep Learning to Detect Blurry Images
 ---
 [comment]: <comment out>

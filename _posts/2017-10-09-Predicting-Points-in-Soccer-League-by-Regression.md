@@ -1,6 +1,6 @@
 ---
 published: true
-Category: [Data Science, Linear regression]
+Category: [Linear regression]
 Title: Predicting Points in Soccer League by Regression
 ---
 
