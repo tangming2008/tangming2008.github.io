@@ -1,6 +1,6 @@
 ---
 published: true
-categories: [Classification]
+categories: [Classification, Neural Network, Tensor Flow]
 title: Applying Deep Learning to Detect Blurry Images
 ---
 [comment]: <comment out>
@@ -69,8 +69,10 @@ Besides the simple cut-off between clear and blurry images, I was wondering whet
 ### Further Applications
 The main idea of this project is image classification, and here are two examples of possible application. First, we could apply this technology to examine images of crashed cars, so that we could rate the damage, estimate auto-part supplies and total repair cost. Besides, we could also import the images of pre-portioned ingredients and predict the total calories, which might be helpful for the customers.
 
+
 <center><img src="/files/fig/proj5/8.png" width="500"></center>
 <p><center>Figure 8. Possible applications based on this work </center></p>
+
 
 ## Conclusions
 * The trained CNN model has an accuracy of 95% when identifying blurry images, which outperforms OpenCV.
