@@ -6,7 +6,9 @@ author_profile: true
 
 **Education**
 
-Ph.D., Carnegie Mellon University
+Ph.D., Carnegie Mellon University, 2017
+MS, Carnegie Mellon University, 2013
+BS, Beihang University, 2012
 
 **Experience**
 
