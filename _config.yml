@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ming Tang"
   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist / Metallurgist (PhD) -----"
+  bio              : "Data Scientist / Metallurgist (PhD) -"
   location         : "Chicago"
   email            : "tangming.buaa@gmail.com"
   uri              :
@@ -113,6 +113,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+  - label: "Scholar"
+    icon: "ai ai-google-scholar"
+    url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
 
 footer:
   links:
@@ -230,6 +234,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
