@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ming Tang"
   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist / Metallurgist (PhD) - test"
+  bio              : "Data Scientist / Metallurgist (PhD) -"
   location         : "Chicago"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Bt8IkjIAAAAJ&hl=en"
   email            : "tangming.buaa@gmail.com"
