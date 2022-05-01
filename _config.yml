@@ -5,51 +5,47 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
-
 # Site Settings
-theme                    : minimal-mistakes-jekyll
-locale                   : "en"
-title                    : "Decision Tree"
+locale                   : "en-US"
+title                    : "Rob Williams"
 title_separator          : "-"
-name                     : "Ming Tang"
-description              : "An amazing website."
-url                      : "https://tangming2008.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+name                     : &name "Rob Williams"
+description              : &description "Postdoc in Political Science"
+url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "jayrobwilliams/jayrobwilliams.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : false
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : #"date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -58,16 +54,15 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jayrobw
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -75,20 +70,28 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          :
+  goatcounter:
+    code		 : jayrobwilliams
 
 
 # Site Author
 author:
-  name             : "Ming Tang"
-  avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist / Metallurgist (PhD) --"
-  location         : "Chicago"
-  email            : "tangming.buaa@gmail.com"
+  name             : "Rob Williams"
+  avatar           : "profile.png"
+  bio              : "Data Scientist"
+  location         :
+  employer         :
+  pubmed           :
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "rob.williams@wustl.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,97 +99,56 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangming2008"
-  gitlab           :
+  github           : "jayrobwilliams"
+  gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tangming1990" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "jayrobwilliams"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  steam            :
   tumblr           :
-  twitter          :
+  twitter          : "jayrobw"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-  - label: "Scholar"
-    icon: "ai ai-google-scholar"
-    url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-
-footer:
-  links:
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tangming2008"
-
-# ## source for the code below
-# ## https://github.com/grantmcdermott/grantmcdermott.github.io/blob/master/_config.yml
-# author:
-#   name   : "Ming Tang"
-#   avatar : ""/files/images/TM.JPG
-#   bio    :
-#     Metallurgist (PhD)
-#     Data Scientist
-#   links:
-#     # - label: "Website"
-#     #   icon: "fas fa-fw fa-link"
-#     #   url: "https://grantmcdermott.com"
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope"
-#       url: "tangming.buaa@gmail.com"
-#     # - label: "Twitter"
-#     #   icon: "fab fa-fw fa-twitter-square"
-#     #   url: "https://twitter.com/grant_mcdermott"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/tangming2008"
-#     - label: "Scholar"
-#       icon: "ai ai-google-scholar"
-#       url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-#     # - label: "ORCID"
-#     #   icon: "ai ai-orcid"
-#     #   url: "http://orcid.org/0000-0001-7883-8573"
-#     linkedin         : "tangming1990"
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -214,6 +176,75 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -222,20 +253,18 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -280,20 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
-theme: jekyll-theme-minimal
