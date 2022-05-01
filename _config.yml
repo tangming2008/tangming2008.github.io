@@ -88,6 +88,7 @@ author:
   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist / Metallurgist (PhD)"
   location         : "Chicago"
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=Bt8IkjIAAAAJ"
   email            : "tangming.buaa@gmail.com"
   uri              :
   bitbucket        :
@@ -99,7 +100,6 @@ author:
   github           : "tangming2008"
   gitlab           :
   google_plus      :
-  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=Bt8IkjIAAAAJ"
   keybase          :
   instagram        :
   lastfm           :
