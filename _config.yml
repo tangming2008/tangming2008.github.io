@@ -82,67 +82,75 @@ analytics:
     tracking_id          :
 
 
-# # Site Author
-# author:
-#   name             : "Ming Tang"
-#   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : "Data Scientist / Metallurgist (PhD) -----"
-#   location         : "Chicago"
-#   email            : "tangming.buaa@gmail.com"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "tangming2008"
-#   gitlab           :
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   lastfm           :
-#   linkedin         : "tangming1990" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-#   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-#   tumblr           :
-#   twitter          :
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-
-## source for the code below
-## https://github.com/grantmcdermott/grantmcdermott.github.io/blob/master/_config.yml
+# Site Author
 author:
-  name   : "Ming Tang"
-  avatar : ""/files/images/TM.JPG
-  bio    :
-    Metallurgist (PhD)
-    Data Scientist
+  name             : "Ming Tang"
+  avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Scientist / Metallurgist (PhD) -----"
+  location         : "Chicago"
+  email            : "tangming.buaa@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "tangming2008"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "tangming1990" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+footer:
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://grantmcdermott.com"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "tangming.buaa@gmail.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/grant_mcdermott"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tangming2008"
     - label: "Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-    # - label: "ORCID"
-    #   icon: "ai ai-orcid"
-    #   url: "http://orcid.org/0000-0001-7883-8573"
-    linkedin         : "tangming1990"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tangming2008"
+
+# ## source for the code below
+# ## https://github.com/grantmcdermott/grantmcdermott.github.io/blob/master/_config.yml
+# author:
+#   name   : "Ming Tang"
+#   avatar : ""/files/images/TM.JPG
+#   bio    :
+#     Metallurgist (PhD)
+#     Data Scientist
+#   links:
+#     # - label: "Website"
+#     #   icon: "fas fa-fw fa-link"
+#     #   url: "https://grantmcdermott.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope"
+#       url: "tangming.buaa@gmail.com"
+#     # - label: "Twitter"
+#     #   icon: "fab fa-fw fa-twitter-square"
+#     #   url: "https://twitter.com/grant_mcdermott"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/tangming2008"
+#     - label: "Scholar"
+#       icon: "ai ai-google-scholar"
+#       url: "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
+#     # - label: "ORCID"
+#     #   icon: "ai ai-orcid"
+#     #   url: "http://orcid.org/0000-0001-7883-8573"
+#     linkedin         : "tangming1990"
 
 
 # Reading Files
