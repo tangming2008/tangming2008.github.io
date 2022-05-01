@@ -88,7 +88,7 @@ author:
   avatar           : /files/images/TM.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist / Metallurgist (PhD) ---"
   location         : "Chicago"
-  googlescholar    : https://scholar.google.co.uk/citations?user=Bt8IkjIAAAAJ&hl=en
+  google_scholar    : https://scholar.google.co.uk/citations?user=Bt8IkjIAAAAJ&hl=en
   email            : "tangming.buaa@gmail.com"
   uri              :
   bitbucket        :
@@ -104,7 +104,6 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "tangming1990" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  orcid            : https://orcid.org/0000-0002-7111-1627
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -114,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
