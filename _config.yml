@@ -99,10 +99,12 @@ author:
   github           : "tangming2008"
   gitlab           :
   google_plus      :
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=Bt8IkjIAAAAJ"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "tangming1990" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  ORCID            : "https://orcid.org/0000-0002-7111-1627"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -113,8 +115,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  Google Scholar   : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=Bt8IkjIAAAAJ"
-  ORCID            : "https://orcid.org/0000-0002-7111-1627"
 
 
 # Reading Files
