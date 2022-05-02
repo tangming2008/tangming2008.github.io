@@ -19,7 +19,7 @@ Summary
 - Specialized in traditional pyrometallurgy and modern data-driven prediction for manufacturing industry (including metal additive manufacturing and continuous casting)
 - 10-year experience research in metals, including aluminum, iron & steel, titanium, and nickel
 - Professional training in data science & machine learning
-- Strong academic record with 7 first-author peer-reviewed journal articles and > 1000 citations
+- Strong academic record with 7 first-author peer-reviewed journal articles and > 1000 citations ([GoogleScholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 
 <br/>
 
@@ -61,7 +61,7 @@ Skills
 
 <br/>
 
-Publications ([Google Scholar, > 1000 citations](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
+Publications ([Google Scholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en), > 1000 citations)
 ======
 Journal articles
 - S. Yang, A. Rebmann, <ins>M. Tang</ins>, R. Moravec, D. Behrmann, M. Baird, W. Bequette, “Process monitoring using causal graphical models, with application to clogging detection in steel continuous casting,” J. Process Control, vol. 105, pp. 259-266, 2021, doi: 10.1016/j.jprocont.2021.08.006
