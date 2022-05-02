@@ -11,13 +11,13 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihao Ding"
+title                    : "Ming Tang"
 title_separator          : "-"
-name                     : &name "Zihao Ding"
-description              : &description "Ph.D. Candidate at CMU"
-url                      : "https://Darkhunter9.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ming Tang"
+description              : &description "Metallurgist"
+url                      : "https://github.com/tangming2008/tangming2008.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Darkhunter9/Darkhunter9.github.io"
+repository               : "https://github.com/tangming2008?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihao Ding"
+  name             : "Ming Tang"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at CMU"
   location         : "Pittsburgh, PA"
