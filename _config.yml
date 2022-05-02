@@ -85,14 +85,14 @@ analytics:
 # Site Author
 author:
   name             : "Ming Tang"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at CMU"
-  location         : "Pittsburgh, PA"
+  avatar           : "/files/images/TM.JPG"
+  bio              : "Metallurgist (PhD), Data Scientist"
+  location         : "Chicago"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=NG6WOPQAAAAJ&hl=en"
-  email            : "ding@cmu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Zihao_Ding4"
+  googlescholar    : "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
+  email            : "tangming.buaa@gmail.com"
+  # researchgate     : "https://www.researchgate.net/profile/Zihao_Ding4"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Darkhunter9"
+  github           : "tangming2008"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "29622120"
-  orcid            : "https://orcid.org/0000-0001-7958-9652"
+  linkedin         : "tangming1990"
+  # orcid            : "https://orcid.org/0000-0002-7111-1627"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
