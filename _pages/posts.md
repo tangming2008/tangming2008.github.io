@@ -2,6 +2,7 @@
 layout: single
 permalink: /posts/
 author_profile: true
+classes: wide
 ---
 
 Comming soon...

@@ -2,6 +2,7 @@
 layout: single
 permalink: /resume/
 author_profile: true
+classes: wide
 ---
 
 [PDF here](/files/resume/Resume_MingTang_0115.pdf)  

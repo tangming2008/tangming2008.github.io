@@ -2,6 +2,7 @@
 layout: single
 permalink: /project/
 author_profile: true
+classes: wide
 ---
 
 **Data Science Projects at Metis/Chicago**
