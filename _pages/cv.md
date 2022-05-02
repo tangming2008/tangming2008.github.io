@@ -17,10 +17,9 @@ Education
 
 Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
+
 * ArcelorMittal Global R&D, 2018-03 - present
   * Research engineer
-
-
 * Carnegie Mellon University, 2014-08 - 2017-05
   * Research Assistant
   * Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
@@ -28,14 +27,16 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Materials Science:
+  * Mechnical tests:
+  * Characterization:
+* Data Science
+  * Python:
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Of course, if my hobbies count
 
-Publications
+Publications ([Google Scholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
