@@ -77,9 +77,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  false # "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-171821969-1"
+    tracking_id          :  ## "UA-171821969-1"
 
 
 # Site Author
@@ -92,7 +92,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
   email            : "tangming.buaa@gmail.com"
-  # researchgate     : "https://www.researchgate.net/profile/Zihao_Ding4"
+  researchgate     : ## "https://www.researchgate.net/profile/Zihao_Ding4"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,10 +104,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : ## "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tangming1990"
-  # orcid            : "https://orcid.org/0000-0002-7111-1627"
+  orcid            : ## "https://orcid.org/0000-0002-7111-1627"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
