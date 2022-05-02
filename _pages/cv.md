@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-[PDF here](/files/CV_MingTang_2022-05-02.pdf)  
+[CV - PDF here](/files/CV_MingTang_2022-05-02.pdf)  
 *Updated on May 1st, 2022*
 
 <br/>
