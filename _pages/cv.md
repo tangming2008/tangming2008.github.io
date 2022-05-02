@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Materials Science and Engineering, Beihang University, Beijing, 2012
-* M.S. in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2014
-* Ph.D in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2017
-
+| --------         | ------ | ------------------------------------------------------------ |
+| BS in Materials Science and Engineering | 2012   | Beihang University, Beijing     |
+| MS in Materials Science and Engineering   | 2014   | Carnegie Mellon University, Pittsburgh  |
+| PhD in Materials Science and Engineering  | 2017   | Carnegie Mellon University, Pittsburgh  |
 
 Work experience
 ======
-* ArcelorMittal Global R&D
-  * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ArcelorMittal Global R&D, 2018 March - present
+  * Research engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Carnegie Mellon University,
+  * Research Assistant
+  * Thesis:
+  * Supervisor: Chris Pistorius
 
 Skills
 ======
