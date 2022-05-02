@@ -12,7 +12,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 locale                   : "en-US"
 title                    : "Ming Tang"
-title_separator          : "-"
+title_separator          : " "
 name                     : &name "Ming Tang"
 description              : &description "Metallurgist"
 url                      : "https://github.com/tangming2008/tangming2008.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

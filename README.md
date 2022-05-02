@@ -1,4 +1,4 @@
-Github page for personal website
+Github page for personal website (last updated: 2022-05-01)
 
 Templates from [Zihao Ding](https://www.zihao-ding.com/) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
