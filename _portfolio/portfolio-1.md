@@ -1,6 +1,6 @@
 ---
 title: "Exploring MTA Turnstile Data"
-excerpt: "Data exploration <br/><img src='/files/fig/proj1/01_00_turnstile.jpg' width='200'>"
+excerpt: "Data exploration <br/><img src='/files/fig/proj1/01_00_turnstile.jpg' width='400'>"
 collection: portfolio
 categories: [Data Science, Project]
 ---

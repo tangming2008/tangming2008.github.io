@@ -1,6 +1,6 @@
 ---
 layout: archive
-## title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -38,6 +38,7 @@ Skills
 
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 ======
+** 7 first-author journal papers & > 1000 citations**
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
