@@ -1,0 +1,18 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /index.html
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /assets/docs/resume-kbosko.pdf  
+  - title: "Certificates"
+    url: /certificates/
+  - title: "Achievements"
+    url: /achievements/
+  - title: "Archive"
+    url: /year-archive/
