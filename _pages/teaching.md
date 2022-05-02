@@ -20,7 +20,7 @@ Some key lessons that I learned over the past few years of working as a trainer 
 Some of my past teaching experience:
 
 ### ArcelorMittal Globale R&D, 2021-11-09
-  - Trainer for a 3-hour lecture on liquid steel processing and thermodynamic, and kinetics for 28 steelmaking professionals
+  - Trainer for a 3-hour lecture on liquid steel processing, thermodynamic, and kinetics for 28 steelmaking professionals
   - Instructor rating: 3.91 (out of 4)
   - **Feedback from trainees**
     - Mr. Tang did a great job making everything understandable. He made it very interesting.
