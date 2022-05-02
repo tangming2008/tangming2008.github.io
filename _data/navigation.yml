@@ -1,12 +1,22 @@
-# main links
+# main links links
 main:
-  - title: "Data Science"
-    url: /project/
-  - title: "Materials Science"
-    url: /posts/
-  - title: "Resume"
-    url: /resume/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
   - title: "Teaching"
-    url: /teaching/
-  - title: "About Me"
-    url: /about/
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
