@@ -5,8 +5,6 @@ collection: portfolio
 categories: [Data Science, Project]
 ---
 
-<center><img src="/files/fig/proj2/1.png" width="500"></center>
-
 ## Introduction
 This blog is built on my second data science project at Metis/Chicago, which consists of two parts:
 * Scrape the information from the web

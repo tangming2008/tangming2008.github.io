@@ -5,7 +5,7 @@ collection: portfolio
 categories: [Data Science, Project]
 ---
 
-## Abstract
+## Summary
 This blog is based on my final passion project at Metis/Chicago. In this project, I applied Keras/Tensor Flow to train the neural network model for classification analysis: to predict whether an image is blurry or clear.
 
 

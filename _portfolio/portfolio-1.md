@@ -5,8 +5,6 @@ collection: portfolio
 categories: [Data Science, Project]
 ---
 
-![Turnstile](/files/fig/proj1/01_00_turnstile.jpg?raw=true)
-
 ## Introduction
 This blog is built on my first data science project at Metis/Chicago, working together with Zach Heick and Eric Chan.
 

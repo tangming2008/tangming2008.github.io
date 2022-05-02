@@ -5,7 +5,7 @@ collection: portfolio
 categories: [Data Science, Project]
 ---
 
-## Introduction
+## Summary
 This blog is based on my 3rd data science project at Metis/Chicago, which is about using classification algorithms to solve practical problems.
 
 In the last project, I built a linear regression model to predict the final points for teams in the Spanish Soccer league (also called La Liga). Two primary features include goals scored and goals lost. For each team in the league, the predicted points agree quite well with the true data, with result summarized in Figure 1.
