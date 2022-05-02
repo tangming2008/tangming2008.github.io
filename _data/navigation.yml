@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Data Science Projects"
+    url: /project/
+  - title: "Materials Science"
+    url: /posts/
+  - title: "Resume"
+    url: /resume/
+  - title: "About Me"
+    url: /about/
