@@ -83,11 +83,11 @@ author:
   name             : "Ming Tang"
   avatar           : "profile.png"
   bio              : "Matallurgist (PhD) + Data Scientist"
-  location         : "Chicago"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-  email            :
+  email            : tangming.buaa@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangming2008"
+  github           : tangming2008
   google_plus      :
   keybase          :
-  instagram        : "tangming2008"
+  instagram        : tangming2008
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tangming1990"
+  linkedin         : tangming1990
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

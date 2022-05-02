@@ -2,14 +2,14 @@
 
   main:
 
-    - title: "CV"
+    - title: "Teaching"
+      url: /teaching/
+
+    - title: "Materials Science"
       url: /cv/
 
     - title: "Data Science"
       url: /project/
-
-    - title: "Teaching"
-      url: /teaching/
 
     # - title: "Publications & Talks"
     #   url: /publications/
@@ -23,5 +23,5 @@
     - title: "Blog Posts"
       url: /year-archive/
 
-    - title: "Guide"
-      url: /markdown/
+    # - title: "Guide"
+    #   url: /markdown/

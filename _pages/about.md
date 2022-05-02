@@ -31,6 +31,10 @@ Currently, I am working as a Senior Engineer in ArcelorMittal Global R&D. My wor
 - **Photography**: It is all about light, place, and feeling! Check out my [instagram account](https://www.instagram.com/tangming2008/?hl=en))
 - **Architecture**: Volunteer as an Exhibition Host and give tours to visitors in the Chicago Architecture Center' [Chicago Gallery](https://www.architecture.org/exhibits/exhibit/chicago-gallery/)
 
+<br/>
+
+Any questions, feel free to reach out at *tangming.buaa@gmail.com*
+
 <!--
 * Work hard and play harder
 -->
