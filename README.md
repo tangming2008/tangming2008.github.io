@@ -1,11 +1,15 @@
-Welcome to my portfolio repository
+Welcome to my portfolio repository!!
+
 
 A few notes
-* A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
-* [Academicpages](https://github.com/academicpages/academicpages.github.io) is a ready-to-fork GitHub Pages template for academic personal websites.
+* My site is built based on [Academicpages](https://github.com/academicpages/academicpages.github.io), which  is a ready-to-fork GitHub Pages template for academic personal websites (**Highly recommended!**).
+* This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+*
 
 
 <!--
+
+## from Zihao Ding: comment out all words below
 
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
