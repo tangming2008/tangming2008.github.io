@@ -248,6 +248,7 @@ defaults:
       type: posts
     values:
       layout: single
+      class: wide # TM: add on 2022-05-02
       author_profile: true
       read_time: true
       comments: # true
