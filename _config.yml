@@ -85,13 +85,13 @@ analytics:
 # Site Author
 author:
   name             : "Ming Tang"
-  avatar           : "images/TM.JPG"
+  avatar           : "TM.JPG"
   bio              : "Metallurgist (PhD), Data Scientist"
   location         : "Chicago"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en"
-  # email            : "tangming.buaa@gmail.com"
+  email            : ## "tangming.buaa@gmail.com"
   researchgate     : ## "https://www.researchgate.net/profile/Zihao_Ding4"
   uri              :
   bitbucket        :
