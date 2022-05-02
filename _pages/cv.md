@@ -1,13 +1,25 @@
 ---
 layout: archive
-title: "CV"
+title: " title"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+
+[PDF here](/files/CV_MingTang_2022-05-02.pdf)  
+*Updated on May 1st, 2022*
+
+Summary
+======
+- Specialized in traditional pyrometallurgy and modern data-driven prediction for manufacturing industry (including metal additive manufacturing and continuous casting)
+- 10-year experience research in metals, including aluminum, iron & steel, titanium, and nickel
+- Professional training in data science & machine learning
+- Strong academic record with 7 first-author peer-reviewed journal articles and > 1000 citations
+
+<br/>
 
 Education
 ======
@@ -20,25 +32,30 @@ Education
 Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
 
-* ArcelorMittal Global R&D, 2018-03 - present
-  * Research engineer
-* Carnegie Mellon University, 2014-08 - 2017-05
-  * Research Assistant
-  * Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
-  * Supervisor: Chris Pistorius
+- Research engineer, ArcelorMittal Global R&D, 2018-03 - present
+  - Managed the steel cleanliness characterization facility in support for product development, root cause analysis, and quality evaluation
+  - Led projects on R&D fundamental steelmaking research to sustain new AHSS product manufacturability for the automotive customers, such as Tesla, Toyota, Nissan, and GM
+  - Provided technical support to steelmaking operations to optimize the reliability of steelmaking process and minimize residual defects in the product
+  - Co-chaired and organized the annual North America Innovation Awards (highest internal technical award)
+
+
+- Research Assistant, Carnegie Mellon University, 2014-08 - 2017-05
+  - Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
+  - Discovered the oxide-induced porosity as a novel type of defect which dominates the fatigue performance of additively manufactured aluminum alloy
+  - Collaborated closely with researchers in the Department of Mechanical Engineering and industrial partners from Arconic on fatigue, tension, and compression tests
 
 <br/>
 
 Skills
 ======
 * Materials Science:
-  * Mechnical tests:
-  * Characterization:
-* Data Science
-  * Python:
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Of course, if my hobbies also count ...
+  * Mechanical tests: fatigue, local formability tests (bendability, hole expansion), tension, nano-indentation
+  * Characterization: Scanning electron microscope/SEM (highly skilled in automated-SEM analysis), X-ray powder diffraction (XRD),
+* Data Science (in Python)
+  * Classification: pandas, sklearn (LR, KNN, RF, etc), TensorFlow, GridSearchCV, xgb
+  * Visualization: Matplotlib, Seaborn, plotly
+  * Extreme value analysis: rpy2 (calling R package for advanced statistical analysis)
+* Of course, if [my hobbies](https://tangming2008.github.io//) also count as skills ...
 
 <br/>
 
