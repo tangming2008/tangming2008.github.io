@@ -1,35 +1,25 @@
 ---
-layout: single
-permalink: /about/
-title: About
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
-header:
-    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
-classes: wide
-date: February 21, 2022
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-<figure style="width: 30%" class="align-right">
-  <img src="/assets/images/hawaii.jpg" alt="">
-</figure>
+  Hi, my name’s Zihao and I am a 3rd year Ph.D. Candidate in the [De Graef](https://neon.materials.cmu.edu/degraef/degraef.shtml) Group at Carnegie Mellon University.
 
+  My research focuses on applying Machine Learning (ML) methods to Electron Backscatter Diffraction (EBSD) technique, including the indexing of orientation and deformation of materials. The objective is to realize faster, more accurate and more robust indexing than state-of-the-art method.
 
+  Besides, I also contribute to the open source Dictionary Indexing (DI) software [EMsoft](https://github.com/EMsoft-org/EMsoft) developed by our group. Currently I'm mainly working on developing Python API for Dictionary Indexing methods, which involves cross-platform development (Fortran/C++/Python) and parallel computation (OpenCL/CUDA). You can check project repositories [PyEMEBSDDI_wrapper](https://github.com/Darkhunter9/PyEMEBSDDI_wrapper) and [PyEMEBSDDI](https://github.com/Darkhunter9/EMsoft/tree/develop/Source/EMsoftWrapperLib/DictionaryIndexing) for more details.
 
-I'm a Master's student in Computer Science at Northeastern University (Silicon Valley campus), graduating in May 2023. `Cross-validated` is my personal blog to keep track of my projects and different HOWTOs related to data and tech.
+  Previously, before my Ph.D. program, I studied Friction Stir Processing (FSP) on titanium alloys (mainly as implants). The research focused on microstructure evolution, changes in mechanical properties and biocompatibility after surface modification was applied.
 
-I’m passionate about Data Analytics and Data Science and recently discovered that I enjoy coding. Since Data Engineering is at the intersection of both Data Science and Software Engineering - both fields that I love - I decided to concentrate in Data Engineering.
+## A Little More About Me
 
-I have strong programming skills in **Python** and currently learning **AWS, Spark, Hadoop and MapReduce**. I have solid understanding of Machine Learning and Databases (**Oracle, MongoDB, Redis**). My previous school [projects](/portfolio) also involved Node.js, Bootstrap, Java, C++.
+  Alongside my interests in materials science and computer science, some of my other interests and hobbies are:
 
-Before enrolling to my Master’s program, I got a PhD in Political Science and worked as a Managing Editor for online analytical journal. During my previous career in academia, I developed strong [analytical, communication and management skills](/achievements/). I also have completed a number of [Data Science specializations online](/certificates).
-
-I am the person who takes initiative and stays curious.
-
-Feel free to [contact me](mailto: kbosko@cross-validated.com) if you find my blog useful, think I might be a good fit or simply would like to connect.
-{: .text-justify}
-
-
-
-
-
+  - Marathon (Half Marathon PB: `1:21'`)
+  - Travelling
+  - Photography

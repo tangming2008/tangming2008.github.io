@@ -1,5 +1,7 @@
+{% include base_path %}
+
 {% if include.id %}
-  {% assign feature_row = page[include.id] %}
+  {% assign feature_row = page.[include.id] %}
 {% else %}
   {% assign feature_row = page.feature_row %}
 {% endif %}
@@ -9,9 +11,9 @@
   {% for f in feature_row %}
 
     {% if f.url contains "://" %}
-      {% capture f_urls %}{{ f.url }}{% endcapture %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
-      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+      {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
@@ -22,17 +24,9 @@
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
-                "{{ f.image_path | relative_url }}"
+                "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
-            {% if f.portfolio_caption %}
-              <span class="portfolio_caption">
-                {{ f.portfolio_caption | markdownify | remove: "<p>" | remove: "</p>" }}
-              </span>
-            {% endif %}
           </div>
         {% endif %}
 
@@ -47,28 +41,9 @@
             </div>
           {% endif %}
 
-          {% if f.text %}
-            <div class="page__content text-justify">
-              {{ f.text | markdownify }}
-            </div>
-          {% endif %}
-
           {% if f.url %}
-            <p><a href="{{ f.url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
-          
-          {% if f.url2 %}
-            <p><a href="{{ f.url2 }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-          {% endif %}
-
-          {% if f.url3 %}
-            <p><a href="{{ f.url3 }}" class="btn {{ f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-          {% endif %}
-          
-          {% if f.tags %}
-            {% include tags-portfolio.html %}
-          {% endif %}
-
         </div>
       </div>
     </div>
