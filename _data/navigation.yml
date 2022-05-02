@@ -5,7 +5,7 @@
     - title: "CV"
       url: /cv/
 
-    - title: "Publications"
+    - title: "Publications & Talks"
       url: /publications/
 
     - title: "Talks"
@@ -22,12 +22,3 @@
 
     - title: "Guide"
       url: /markdown/
-
-    - title: "Materials Science"
-      url: /portfolio_materails/
-
-    - title: "Data Science"
-      url: /portfolio_data/
-
-    - title: "Fun"
-      url: /portfolio_fun/
