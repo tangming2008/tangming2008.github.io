@@ -15,6 +15,7 @@ Education
 - MS in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2014
 - PhD in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2017
 
+<br/>
 
 Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
@@ -26,6 +27,7 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
   * Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
   * Supervisor: Chris Pistorius
 
+<br/>
 
 Skills
 ======
@@ -37,6 +39,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Of course, if my hobbies also count ...
+
 <br/>
 
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
@@ -54,18 +57,20 @@ Journal articles
 - <ins>M. Tang</ins>, H. J. Cho, and P. C. Pistorius, “Early Gaseous Oxygen Enrichment to Enhance Magnetite Pellet Oxidation,” Metall. Mater. Trans. B, vol. 45, pp. 1304-1314, 2014. doi: 10.1007/s11663-014-0064-5
 - H. J. Cho, <ins>M. Tang</ins>, and P. C. Pistorius, “Magnetite Particle Size Distribution and Pellet Oxidation,” Metall. Mater. Trans. B, vol. 45, pp. 1213-1220, 2014. doi: 10.1007/s11663-014-0104-1
 
+<br/>
 
 Conference proceedings
 - <ins>M. Tang</ins>, P. C. Pistorius, and J.L. Beuth, “Geometric Model to Predict Porosity of Part Produced in Powder Bed System,” in Materials Science & Technology, Columbus, OH, 2015, pp. 129-136.
 - P. C. Pistorius and <ins>M. Tang</ins>, “Prediction of Non-Isothermal Oxidation of Magnetite Pellets,” in Drying, Roasting, and Calcining of Minerals, Orlando, FL, 2015, pp. 203-208.
 - <ins>M. Tang</ins> and P. C. Pistorius, “Magnetite Pellet Oxidation: Effects of Water Vapor and Non-Isothermal Reaction,” in AISTech, Indianapolis, IN, 2014, pp. 635-642.
 
-
 <!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
+<br/>
 
 Talks
 ======
@@ -91,6 +96,7 @@ Teaching
   {% endfor %}</ul>
 -->
 
+<br/>
 
 Service and leadership
 ======
@@ -98,8 +104,8 @@ Service and leadership
     - largest award within the North America division (Canada, Mexico, and USA)
   - Reviewers
     - AISTech Transactions (**Key reviewer**)
-    - Materials Science and Engineering A (**Outstanding reviewer**)
-    - Journal of Materials Processing Technology (**Outstanding reviewer**)
+    - Materials Science and Engineering A (*Outstanding reviewer*)
+    - Journal of Materials Processing Technology (*Outstanding reviewer*)
     - Materials & Design
     - International Journal of Fatigue
     - Metallurgical and Materials Transactions B
