@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "kbosko3"
+  username               : ## "kbosko3"
 facebook:
   username               :
   app_id                 :
@@ -98,20 +98,20 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
+  provider               : false ## google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-147237792-1
-    anonymize_ip         : false # false (default)
-    optimize_id          : GTM-WV93XGT
-    allow_google_signals : false
+    tracking_id          : ## UA-147237792-1
+    anonymize_ip         : ## false # false (default)
+    optimize_id          : ## GTM-WV93XGT
+    allow_google_signals : ## false
 
 
 # Site Author
 author:
-  name             : "Katerina Bosko"
-  avatar           : "/assets/images/kbosko-color-small.jpg"
-  bio              : "From Political Science to Data Engineering"
-  location         : "San Francisco Bay Area (CA)"
+  name             : "Ming Tang"
+  avatar           : "/assets/images/TM.jpg"
+  bio              : "Material Science + Data Science"
+  location         : "Chicago"
   email            :
   links:
     - label: "Email"
