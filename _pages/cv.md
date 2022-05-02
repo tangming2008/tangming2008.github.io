@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " title"
+title: "  "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,8 @@ redirect_from:
 
 [PDF here](/files/CV_MingTang_2022-05-02.pdf)  
 *Updated on May 1st, 2022*
+
+<br/>
 
 Summary
 ======
@@ -48,21 +50,19 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 
 Skills
 ======
-* Materials Science:
+* Materials Science
   * Mechanical tests: fatigue, local formability tests (bendability, hole expansion), tension, nano-indentation
   * Characterization: Scanning electron microscope/SEM (highly skilled in automated-SEM analysis), X-ray powder diffraction (XRD),
 * Data Science (in Python)
-  * Classification: pandas, sklearn (LR, KNN, RF, etc), TensorFlow, GridSearchCV, xgb
+  * Classification: pandas, sklearn (LR, KNN, RF, etc), Keras/TensorFlow, GridSearchCV, xgb
   * Visualization: Matplotlib, Seaborn, plotly
   * Extreme value analysis: rpy2 (calling R package for advanced statistical analysis)
 * Of course, if [my hobbies](https://tangming2008.github.io//) also count as skills ...
 
 <br/>
 
-Publications ([Google Scholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
+Publications ([Google Scholar, > 1000 citations](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 ======
-**7 first-author journal papers & > 1000 citations**
-
 Journal articles
 - S. Yang, A. Rebmann, <ins>M. Tang</ins>, R. Moravec, D. Behrmann, M. Baird, W. Bequette, “Process monitoring using causal graphical models, with application to clogging detection in steel continuous casting,” J. Process Control, vol. 105, pp. 259-266, 2021, doi: 10.1016/j.jprocont.2021.08.006
 - <ins>M. Tang</ins> and P. C. Pistorius, “Fatigue Life Prediction for AlSi10Mg Parts Produced by Selective Laser Melting,” Int. J. Fatigue, vol. 125, pp. 479-490, 2019. doi: 10.1016/j.ijfatigue.2019.04.015
@@ -89,7 +89,7 @@ Conference proceedings
 
 <br/>
 
-Talks
+Talks at International Conferences
 ======
 - <ins>M. Tang</ins> and P. C. Pistorius, “Fatigue Life Prediction for AlSi10Mg Parts Produced by Selective Laser Melting,” RAPID + TCT Conference, Pittsburgh, PA, May 2017.
 - <ins>M. Tang</ins> and P. C. Pistorius, “Anisotropic Mechanical Behavior of AlSi10Mg Parts Produced by Selective Laser Melting,” TMS, San Diego, CA, Mar 2017.
