@@ -50,14 +50,15 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 
 Skills
 ======
-* Materials Science
-  * Mechanical tests: fatigue, local formability tests (bendability, hole expansion), tension, nano-indentation
-  * Characterization: Scanning electron microscope/SEM (highly skilled in automated-SEM analysis), X-ray powder diffraction (XRD),
-* Data Science (in Python)
-  * Classification: pandas, sklearn (LR, KNN, RF, etc), Keras/TensorFlow, GridSearchCV, xgb
-  * Visualization: Matplotlib, Seaborn, plotly
-  * Extreme value analysis: rpy2 (calling R package for advanced statistical analysis)
-* Of course, if [my hobbies](https://tangming2008.github.io//) also count as skills ...
+- Materials Science
+  - Mechanical tests: fatigue, local formability tests (bendability, hole expansion), tension, nano-indentation
+  - Characterization: Scanning electron microscope/SEM (highly skilled in automated-SEM analysis), X-ray powder diffraction (XRD)
+- Data Science (in Python)
+  - Classification: pandas, sklearn (LR, KNN, RF, etc), Keras/TensorFlow, GridSearchCV, xgb
+  - Visualization: Matplotlib, Seaborn, plotly
+  - Web application: streamlit
+  - Extreme value analysis: rpy2 (calling *R* packages for advanced statistical analysis)
+- Of course, if [my hobbies](https://tangming2008.github.io//) also count as skills ...
 
 <br/>
 
