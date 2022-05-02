@@ -6,5 +6,7 @@ main:
     url: /posts/
   - title: "Resume"
     url: /resume/
+  - title: "Teaching"
+      url: /teaching/
   - title: "About Me"
     url: /about/
