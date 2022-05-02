@@ -77,17 +77,17 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  false #"google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-171821969-1"
+    tracking_id          :  # "UA-171821969-1"
 
 
 # Site Author
 author:
-  name             : "Zihao Ding"
+  name             : "Ming Tang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at CMU"
-  location         : "Pittsburgh, PA"
+  bio              : "Metallurgist"
+  location         : "Chicago"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=NG6WOPQAAAAJ&hl=en"
