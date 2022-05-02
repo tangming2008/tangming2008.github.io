@@ -1,8 +1,10 @@
 ---
 layout: single
 permalink: /about/
+title: About
 author_profile: true
 classes: wide
+date: May 2nd, 2022
 ---
 
 **Education**
