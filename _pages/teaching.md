@@ -10,7 +10,7 @@ classes: wide
 I am a firm believer in learning-by-teaching. Some of my past teaching experience is listed below
 
 
-ArcelorMittal Globale R&D, 2021-11
+**ArcelorMittal Globale R&D, 2021-11**
   - Trainer for a 3-hour lecture on liquid steel processing and thermodynamic, and kinetics
   - Instructor rating: 3.91 (out of 4)
   - **Feedback from trainees**
@@ -22,7 +22,7 @@ ArcelorMittal Globale R&D, 2021-11
     - Refresher. Very good. Used humor and day life example to explain difficult technical matters.
     - Best instructor so far. Great job.
 
-ArcelorMittal Globale R&D, 2019-10-15
+**ArcelorMittal Globale R&D, 2019-10-15**
   - Trainer for a 3-hour lecture on liquid steel processing and alloying
   - Instructor rating: 3.8 (out of 4)
   - **Feedback from trainees**
