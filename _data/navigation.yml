@@ -8,14 +8,14 @@
     - title: "Data Science"
       url: /project/
 
-    - title: "Publications & Talks"
-      url: /publications/
-
-    - title: "Talks"
-      url: /talks/
-
     - title: "Teaching"
       url: /teaching/
+
+    # - title: "Publications & Talks"
+    #   url: /publications/
+    #
+    # - title: "Talks"
+    #   url: /talks/
 
     - title: "Portfolio"
       url: /portfolio/
