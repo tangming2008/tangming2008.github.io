@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+class: wide
 permalink: /about/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+class: wide
 permalink: /resume/
 author_profile: true
 ---

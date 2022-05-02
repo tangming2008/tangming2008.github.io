@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+class: wide
 permalink: /project/
 author_profile: true
 ---
