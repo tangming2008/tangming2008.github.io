@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-| --------         | ------ | ------------------------------------------------------------ |
-| BS in Materials Science and Engineering | 2012   | Beihang University, Beijing     |
-| MS in Materials Science and Engineering   | 2014   | Carnegie Mellon University, Pittsburgh  |
-| PhD in Materials Science and Engineering  | 2017   | Carnegie Mellon University, Pittsburgh  |
+- BS in Materials Science and Engineering, Beihang University, Beijing, 2012
+- MS in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2014
+- PhD in Materials Science and Engineering, Carnegie Mellon University, Pittsburgh, 2017
 
-Work experience
+Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
-* ArcelorMittal Global R&D, 2018 March - present
+* ArcelorMittal Global R&D, 2018-03 - present
   * Research engineer
 
-* Carnegie Mellon University,
+
+* Carnegie Mellon University, 2014-08 - 2017-05
   * Research Assistant
-  * Thesis:
+  * Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
   * Supervisor: Chris Pistorius
 
 Skills
@@ -55,4 +55,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to XX different slack teams
