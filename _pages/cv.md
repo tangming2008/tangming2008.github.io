@@ -9,15 +9,14 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-[CV - PDF here](/files/CV_MingTang_2022-05-02.pdf)  
-*Updated on May 1st, 2022*
+CV [[PDF](/files/CV_MingTang_2022-05-02.pdf)]  *Updated on May 1st, 2022*
 
 <br/>
 
 Summary
 ======
 - Specialized in traditional pyrometallurgy and modern data-driven prediction for manufacturing industry (including metal additive manufacturing and continuous casting)
-- 10-year experience research in metals, including aluminum, iron & steel, titanium, and nickel
+- 10-year research experience in metallic alloys, including aluminum, iron & steel, titanium, and nickel
 - Professional training in data science & machine learning
 - Strong academic record with 7 first-author peer-reviewed journal articles and > 1000 citations ([GoogleScholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 
