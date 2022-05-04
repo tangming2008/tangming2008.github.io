@@ -22,7 +22,7 @@ Currently, I am working as a Senior Engineer in ArcelorMittal Global R&D. My wor
 - Materials Science: click [here](https://tangming2008.github.io//cv/) for more information of my educational background and research experience in metallurgy.
 - Data Science: click [here](https://tangming2008.github.io//portfolio/) to access my posts on data science projects
 
-CV [[PDF](/files/CV_MingTang_2022-05-02.pdf)]  *Updated on May 1st, 2022*
+CV [[PDF](/files/CV_MingTang.pdf)]  *Updated on May 2nd, 2022*
 
 <br/>
 

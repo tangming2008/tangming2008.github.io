@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /project/
+permalink: /2_DataScience/
 author_profile: true
 ## classes: wide
 ---

@@ -6,10 +6,16 @@
       url: /teaching/
 
     - title: "Materials Science"
-      url: /cv/
+      url: /1_MaterialsScience/
 
     - title: "Data Science"
-      url: /project/
+      url: /2_DataScience/
+
+    # - title: "Materials Science"
+    #   url: /cv/
+    #
+    # - title: "Data Science"
+    #   url: /project/
 
     # - title: "Publications & Talks"
     #   url: /publications/

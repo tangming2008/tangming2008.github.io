@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "  "
-permalink: /cv/
+permalink: /1_MaterialsScience/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-CV [[PDF](/files/CV_MingTang_2022-05-02.pdf)]  *Updated on May 1st, 2022*
+CV [[PDF](/files/CV_MingTang.pdf)]  *Updated on May 2nd, 2022*
 
 <br/>
 
