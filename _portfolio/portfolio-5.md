@@ -1,6 +1,6 @@
 ---
 title: "Predicting the covid test result"
-## excerpt: "Image classification by using neural network <br/><img src='/files/fig/proj5/1.png' width='400'>"
+excerpt: "Image classification by using neural network <br/><img src='figures/app_screenshot.JPG' width='400'>"
 collection: portfolio
 categories: [Data Science, Project]
 ---
