@@ -1,6 +1,6 @@
 ---
 title: "Predicting the covid test result"
-excerpt: "Image classification by using neural network <br/><img src='figures/app_screenshot.JPG' width='400'>"
+excerpt: "Image classification by using neural network <br/><img src='files/app_screenshot.jpg' width='400'>"
 collection: portfolio
 categories: [Data Science, Project]
 ---
@@ -43,7 +43,7 @@ categories: [Data Science, Project]
 * The model has been incorporated into an interactive app by using Streamlit and deployed on Heroku.
 * [Click here to check it out](https://classification-app-20210513-v3.herokuapp.com/)
 
-![OnlineApp](/figures/app_screenshot.JPG?raw=true)
+![OnlineApp](/files/app_screenshot.jpg)
 
 ## Acknowledgement
 * I sincerely appreciate great suggestions from the instructors (Kim and Joan), TAs (Tawney and Ethan), and the group team (Matthew, Leslie, Jason)!
