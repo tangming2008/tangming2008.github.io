@@ -1,6 +1,6 @@
 ---
 title: "Applying Deep Learning to Detect Blurry Images"
-excerpt: "Image classification by using neural network <br/><img src='/files/fig/proj5/1.png' width='400'>"
+excerpt: "CNN, Image classification <br/><img src='/files/fig/proj5/1.png' width='400'>"
 collection: portfolio
 categories: [Data Science, Project]
 ---
