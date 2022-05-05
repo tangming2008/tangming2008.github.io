@@ -1,6 +1,6 @@
 ---
 title: "Predicting the covid test result"
-excerpt: "Classification (unbalanced dataset) <br/><img src='files/app_screenshot.png' width='400'>"
+excerpt: "Classification (unbalanced dataset) <br/><img src='/files/app_screenshot.png' width='400'>"
 collection: portfolio
 categories: [Data Science, Project]
 ---
