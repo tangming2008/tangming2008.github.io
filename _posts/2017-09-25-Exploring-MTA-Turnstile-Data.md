@@ -2,6 +2,7 @@
 published: true
 categories: [Data Science, Project]
 title: Exploring MTA Turnstile Data
+classes: wide
 ---
 
 ![Turnstile](/files/fig/proj1/01_00_turnstile.jpg?raw=true)

@@ -2,6 +2,7 @@
 published: true
 Category: [Linear regression]
 Title: Predicting Points in Soccer League by Regression
+classes: wide
 ---
 
 <center><img src="/files/fig/proj2/1.png" width="500"></center>

@@ -2,6 +2,7 @@
 published: true
 categories: [Unsupervised Machine Learning]
 title: Recommending Hotels based on Customer Reviews
+classes: wide
 ---
 
 Coming soon ...

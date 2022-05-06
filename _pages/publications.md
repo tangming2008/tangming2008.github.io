@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+classes: wide
 author_profile: true
 ---
 
