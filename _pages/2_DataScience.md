@@ -13,7 +13,7 @@ Here are my data science posts and projects at [Metis/Chicago](https://www.thisi
 
 <br/>
 
-Experience:
+Skills
 - Python: Pandas, Scikit-learn, StatsModels, Numpy, Scipy, BeautifulSoup/Selenium
 - Machine learning: Regression, Classification, Clustering, PCA, NLP
 - Neural Network: Keras/TensorFlow, PyTorch
@@ -21,7 +21,7 @@ Experience:
 
 <br/>
 
-Project posts:
+Project posts
 - [Exploring MTA Turnstile Data](https://tangming2008.github.io//portfolio/portfolio-1/): Data Exploration, Pandas, Matplotlib
 - [Predicting Points in Soccer League by Regression](https://tangming2008.github.io//portfolio/portfolio-2/): Webscraping, linear regression
 - [Predicting Top 4 Teams in Soccer League by Classification](https://tangming2008.github.io//portfolio/portfolio-3/): Classification
