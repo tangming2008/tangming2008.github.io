@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 title: "Predicting Top 4 Teams in Soccer League by Classification"
 excerpt: "Classification <br/><img src='/files/fig/proj3/1.png' width='400'>"
 collection: portfolio

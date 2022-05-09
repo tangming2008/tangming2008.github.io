@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 published: true
 categories: [Unsupervised Machine Learning]
 title: Recommending Hotels based on Customer Reviews

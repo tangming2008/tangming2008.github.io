@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 published: true
 categories: [Classification]
 title: Predicting Top 4 Teams in Soccer League by Classification

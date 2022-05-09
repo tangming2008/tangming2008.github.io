@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 title: "Predicting the covid test result"
 excerpt: "Classification (unbalanced dataset) <br/><img src='/files/app_screenshot.png' width='400'>"
 collection: portfolio

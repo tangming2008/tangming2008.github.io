@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 published: true
 categories: [Data Science, Project]
 title: Exploring MTA Turnstile Data

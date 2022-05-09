@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 title: "Predicting Points in Soccer League by Regression"
 excerpt: "Linear regression <br/><img src='/files/fig/proj2/1.png' width='400'>"
 collection: portfolio

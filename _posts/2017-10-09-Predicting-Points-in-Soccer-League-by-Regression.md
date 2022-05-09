@@ -1,4 +1,6 @@
 ---
+layout: archive
+## layout: single
 published: true
 Category: [Linear regression]
 Title: Predicting Points in Soccer League by Regression
