@@ -1,5 +1,6 @@
 ---
-layout: single
+## layout: single
+layout: archive
 title: " "
 permalink: /fun/
 author_profile: true
@@ -7,7 +8,7 @@ author_profile: true
 ---
 
 # Tennis
-- I represent the [athletic club](https://www.midtown.com/tennis) and compete regularly in the Men's 3.0 USTA league in the great Chicago area
+- I represent the [Midtown Athletic Club](https://www.midtown.com/tennis) and compete regularly in the Men's 3.0 USTA league in the great Chicago area); ([UTR](https://app.universaltennis.com/profiles/2947726) link here)
 
 <br/>
 

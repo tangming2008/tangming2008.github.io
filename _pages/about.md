@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: archive
+## layout: single
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: "Welcome"
 excerpt: "About me"

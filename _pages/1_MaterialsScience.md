@@ -4,8 +4,8 @@ title: "  "
 permalink: /1_MaterialsScience/
 author_profile: true
 classes: wide
-redirect_from:
-  - /resume
+## redirect_from:
+##  - /resume
 ---
 
 <!-- {% include base_path %} -->
