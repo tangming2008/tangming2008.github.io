@@ -21,9 +21,11 @@ Hello, my name is Ming Tang, and welcome to my personal website!
 # Profession
 "My heart is in the work." - Andrew Carnegie
 
-Currently, I am working as a Senior Engineer in ArcelorMittal Global R&D. My work lies at the intersection of Materials Science and Data Science. We make high-quality steel sheet for the automotive industry.
-- Materials Science: click [here](https://tangming2008.github.io//cv/) for more information on my work experience, research publications, and  education background.
-- Data Science: click [here](https://tangming2008.github.io//portfolio/) to access my posts on data science projects
+Currently, I am working as a Senior Engineer in ArcelorMittal Global R&D. We make advanced high strength steel (AHSS) sheets for the automotive customers.
+
+My projects lie at the intersection of Materials Science and Data Science.
+- **Materials Science**: click [here](https://tangming2008.github.io//cv/) for more information on my work experience, research publications, and  education background.
+- **Data Science**: click [here](https://tangming2008.github.io//portfolio/) to access my posts on data science projects
 
 CV [[PDF](/files/CV_MingTang.pdf)]  *Updated on May 2nd, 2022*
 
