@@ -35,8 +35,8 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
 
 - ArcelorMittal Global R&D, 2018-03 - present
-  - *Research Engineer*, 2018-03 - 2021-12
-  - *Senior Research Engineer*, 2021-12 - present
+  -	*Research Engineer*, 2018-03 - 2021-12
+  -	*Senior Research Engineer*, 2021-12 - present
   - Managed the steel cleanliness characterization facility in support for product development, root cause analysis, and quality evaluation
   - Led projects on R&D fundamental steelmaking research to sustain new AHSS product manufacturability for the automotive customers, such as Tesla, Toyota, Nissan, and GM
   - Provided technical support to steelmaking operations to optimize the reliability of steelmaking process and minimize residual defects in the product
@@ -54,13 +54,17 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 Skills
 ======
 - Materials Science
-  - Mechanical tests: fatigue, local formability tests (bendability, hole expansion), tension, nano-indentation
-  - Characterization: Scanning electron microscope/SEM (highly skilled in automated-SEM analysis), 3D computed tomography, X-ray powder diffraction (XRD)
+  - Mechanical tests: fatigue, tension, bendability, hole expansion, nano-indentation
+  - Characterization: SEM/EDX (highly skilled in automated-SEM), micro-CT, XRD, DSC
+
+
 - Data Science (in Python)
-  - Classification: pandas, sklearn (LR, KNN, RF, etc), Keras/TensorFlow, GridSearchCV, xgb
-  - Visualization: Matplotlib, Seaborn, plotly
-  - Web application: streamlit
-  - Extreme value analysis: rpy2 (calling *R* packages for advanced statistical analysis)
+  - Machine learning: sklearn, pandas, Keras/TensorFlow (image classification), xgb
+  - Web application: streamlit, Heroku
+  - Advanced statistics: rpy2 (for extreme value analysis)
+  - Project posts: available on my [GitHub](https://tangming2008.github.io//2_DataScience/) site
+
+
 - Of course, if [my hobbies](https://tangming2008.github.io//) also count as skills ...
 
 <br/>
