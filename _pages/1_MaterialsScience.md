@@ -10,7 +10,9 @@ classes: wide
 
 <!-- {% include base_path %} -->
 
+<!---
 CV [[PDF](/files/CV_MingTang.pdf)]  *Updated on May 2nd, 2022*
+--->
 
 <br/>
 

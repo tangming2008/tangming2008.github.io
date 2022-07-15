@@ -27,7 +27,9 @@ My projects lie at the intersection of Materials Science and Data Science.
 - **Materials Science**: click [here](https://tangming2008.github.io//cv/) for more information on my work experience, research publications, and  education background.
 - **Data Science**: click [here](https://tangming2008.github.io//portfolio/) to access my posts on data science projects
 
+<!---
 CV [[PDF](/files/CV_MingTang.pdf)]  *Updated on May 2nd, 2022*
+-->
 
 <br/>
 
