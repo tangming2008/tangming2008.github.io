@@ -24,3 +24,9 @@ author_profile: true
 
 # Architecture
 - Volunteer as an Exhibition Host at the Chicago Architecture Center' [Chicago Gallery](https://www.architecture.org/exhibits/exhibit/chicago-gallery/)
+
+<br/>
+
+# Walk ten thousand miles & Read ten thousand books (万里路和万卷书)
+- 游记和读书笔记（整理中...）
+
