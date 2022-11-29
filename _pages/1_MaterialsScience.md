@@ -36,9 +36,17 @@ Education
 Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 ======
 
-- ArcelorMittal Global R&D, 2018-03 - present
+- Exponent, 2022-08 - present
+  - *Senior Associate*, 2022-08 - present
+  - Menlo Park, CA
+  - Proactive projects: root cause analysis, support for product development
+  - Reactive projects: provide technical investigation to litigation cases
+
+
+- ArcelorMittal Global R&D, 2018-03 - 2022-07
   -	*Research Engineer*, 2018-03 - 2021-12
-  -	*Senior Research Engineer*, 2021-12 - present
+  -	*Senior Research Engineer*, 2021-12 - 2022-07
+  - East Chicago, IN
   - Managed the steel cleanliness characterization facility in support for product development, root cause analysis, and quality evaluation
   - Led projects on R&D fundamental steelmaking research to sustain new AHSS product manufacturability for the automotive customers, such as Tesla, Toyota, Nissan, and GM
   - Provided technical support to steelmaking operations to optimize the reliability of steelmaking process and minimize residual defects in the product
@@ -47,6 +55,7 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 
 - Carnegie Mellon University, 2014-08 - 2017-05
   - *PhD research assistant*
+  - Pittsburgh, PA
   - Thesis: Inclusions, Porosity, and Fatigue of AlSi10Mg Parts Produced by Selective Laser Melting ([link](https://kilthub.cmu.edu/articles/thesis/Inclusions_Porosity_and_Fatigue_of_AlSi10Mg_Parts_Produced_by_Selective_Laser_Melting/6720185))
   - Discovered the oxide-induced porosity as a novel type of defect which dominates the fatigue performance of additively manufactured aluminum alloy
   - Collaborated closely with researchers in the Department of Mechanical Engineering and industrial partner (Arconic) on fatigue, tension, and compression tests
