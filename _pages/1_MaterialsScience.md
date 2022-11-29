@@ -42,6 +42,7 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
   - Proactive projects: root cause analysis, support for product development
   - Reactive projects: provide technical investigation to litigation cases
 
+<br/>
 
 - ArcelorMittal Global R&D, 2018-03 - 2022-07
   -	*Research Engineer*, 2018-03 - 2021-12
@@ -52,6 +53,7 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
   - Provided technical support to steelmaking operations to optimize the reliability of steelmaking process and minimize residual defects in the product
   - Co-chaired and organized the annual North America Innovation Awards (highest internal technical award)
 
+<br/>
 
 - Carnegie Mellon University, 2014-08 - 2017-05
   - *PhD research assistant*
