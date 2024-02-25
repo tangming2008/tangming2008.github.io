@@ -21,7 +21,7 @@ Summary
 - Specialized in traditional pyrometallurgy and modern data-driven prediction for manufacturing industry (including metal additive manufacturing and continuous casting)
 - 10-year research experience in metallic alloys, including aluminum, iron & steel, titanium, and nickel
 - Professional training in data science & machine learning
-- Strong academic record with 7 first-author peer-reviewed journal articles and > 1000 citations ([GoogleScholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
+- Strong academic record with 7 first-author peer-reviewed journal articles and > 1500 citations ([GoogleScholar](https://scholar.google.com/citations?user=Bt8IkjIAAAAJ&hl=en))
 
 <br/>
 
@@ -39,8 +39,8 @@ Work experience ([Linkedin](https://www.linkedin.com/in/tangming1990/))
 - Exponent, 2022-08 - present
   - *Senior Associate*, 2022-08 - present
   - Menlo Park, CA
-  - Proactive projects: root cause analysis, support for product development
-  - Reactive projects: provide technical investigation to litigation cases
+  - Proactive Projects: Acting as the Sherlock Holmes for medical devices, sports gear, and tech toys, figuring out why they failed and how to prevent from happening
+  - Reactive Projects: Providing technical expertise for litigation support, covering intellectual property disputes, protection of trade secrets, and issues arising from medical device malfunctions. This encompasses detailed analysis and evidence gathering to support legal claims and defenses.
 
 <br/>
 
