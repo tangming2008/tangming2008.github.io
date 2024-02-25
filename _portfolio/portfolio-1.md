@@ -12,7 +12,7 @@ classes: wide
 This blog is built on my first data science project at Metis/Chicago, working together with Zach Heick and Eric Chan.
 
 
-## Background
+## Hypothetical client scenario
 Our client, WomenTechWomenYes (WTWY), will host an annual gala fundraising event at the beginning of summer next year in New York City. They want to place their street teams at entrances of subway stations and distribute posters to advertise this event. The objective of this project is to isolate *popular subway stations* to maximize the potential attendees to the fundraising event.
 
 
